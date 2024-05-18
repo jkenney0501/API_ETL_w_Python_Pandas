@@ -4,7 +4,7 @@ Sample ETL using Python to query an API then transforms the load into three tabl
 
 Note: this is a simple data engineering exercise and is mostly about pulling data from an API and flattening/transforming it to useable table structures as you would prepare data typically using an API for downstream users. 
 
-It is not meant to be an end all ETL solution but moreso, a simple example of hwo powerful and API can be when combined with Python.
+It is not meant to be an end all ETL solution but moreso, a simple example of how powerful and API can be when combined with Python.
 
 To use the script, register at <a href = https://www.themoviedb.org/settings/api> TMDB </a>
 
