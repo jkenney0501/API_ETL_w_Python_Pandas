@@ -2,7 +2,7 @@
 
 Sample ETL using Python to query an API then transforms the load into three tables and writes the data to an output. 
 
-To use the script, registe at <a href = https://www.themoviedb.org/settings/api> TMDB </a>
+To use the script, register at <a href = https://www.themoviedb.org/settings/api> TMDB </a>
 
 This script pulls data from an API and creates three tables, Movies, Genres and Dates( for relewase date).
 
